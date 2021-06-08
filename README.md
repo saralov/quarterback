@@ -1,6 +1,6 @@
 # Quarterback的架构笔记
 欢迎关注作者公众号获取最新笔记：
-![微信公众号：Quarterback](wechat.png)
+![微信公众号：Quarterback](https://gitee.com/quarterback/quarterback/raw/main/wechat.png)
 
 > 一、计算机基础
 >    - [*编程语言*](#编程语言)
