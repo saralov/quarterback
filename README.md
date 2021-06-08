@@ -36,6 +36,7 @@
 ## 存储组件
 ### 图数据库
 #### JanusGraph
+- [一文了解TinkerPop和JanusGraph](https://mp.weixin.qq.com/s/sgdL41WabTD9tFDlCbVxmw)
 
 # 五、应用服务器、服务治理组件架构
 
