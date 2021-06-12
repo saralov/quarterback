@@ -17,6 +17,10 @@
 
 > 四、存储、计算、中间件、大数据平台等基础服务组件架构
 >    - [*存储组件*](#存储组件)
+>        - [*KV键值数据库*](#KV键值数据库)
+>            - [*HBase*](#HBase)
+>        - [*文档数据库*](#文档数据库)
+>            - [*MongoDB*](#MongoDB)
 >        - [*图数据库*](#图数据库)
 >            - [*JanusGraph*](#JanusGraph)
 >    - [*计算组件*](#计算组件)
@@ -42,6 +46,12 @@
 
 # 四、存储、计算、中间件、大数据平台等基础服务组件架构
 ## 存储组件
+### KV键值数据库
+#### HBase
+- [什么是HBase](https://mp.weixin.qq.com/s/VEvmFRGkm2DAUwidCZneCQ)
+### 文档数据库
+#### MongoDB
+- [通过Kafka, Nifi快速构建异步持久化MongoDB架构](https://mp.weixin.qq.com/s/aft88Q__GaPYzEVZeC7umQ)
 ### 图数据库
 #### JanusGraph
 - [一文了解TinkerPop和JanusGraph](https://mp.weixin.qq.com/s/sgdL41WabTD9tFDlCbVxmw)
