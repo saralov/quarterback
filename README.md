@@ -38,11 +38,17 @@
 
 > 六、业务架构
 
-----
-# 一、计算机基础
+---
+
+---
+
+> # 一、计算机基础
+
 - ## 编程语言
     - ### Java
         - #### Java基础
+        - #### Java网络编程
+        - #### Java并发编程
     - ### Python
     - ### GO
 - ## 数据结构
@@ -53,11 +59,18 @@
         - #### 常用命令行
             - [rsync](https://mp.weixin.qq.com/s/VEvmFRGkm2DAUwidCZneCQ)
 
+---
+
 > # 二、架构基础知识
+
+---
 
 > # 三、软件系统运行环境基础架构
 
+---
+
 > # 四、存储、计算、中间件、大数据平台等基础服务组件架构
+
 - ## 存储组件
     - ### 关系型数据库（SQL）
         - #### MySQL
@@ -72,7 +85,16 @@
         - #### 图数据库
             - ##### JanusGraph
                 - [一文了解TinkerPop和JanusGraph](https://mp.weixin.qq.com/s/sgdL41WabTD9tFDlCbVxmw)
+            - ##### Neo4j
+- ## 全文检索
+    - ### ElasticSearch
+        - #### 监控告警
+            - ##### ElastAlert
+
+---
 
 > # 五、应用服务层架构
+
+---
 
 > # 六、业务架构
